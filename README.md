@@ -1,1 +1,1 @@
-# Hackintosh_i5-1400_MSI-B460M
+# Hackintosh_i5-10400_MSI-B460M
